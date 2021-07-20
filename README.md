@@ -10,7 +10,7 @@
 ![app](https://user-images.githubusercontent.com/73259242/126371797-91093888-81c6-4220-b67f-888c1a2fb2b4.png)
 
 <hr>
-**_Obs: para o projeto rodar é necessário possuir:_**
+**Obs: para o projeto rodar é necessário possuir:**
 
 - Visual Studio Code
 - Node.js
@@ -38,5 +38,5 @@ $ yarn start
 # Após isso o servidor iniciará na porta: 3333
 # acesse http://localhost:3000
 ```
-
+<hr>
 Feito com 💜 por <a href="https://www.linkedin.com/in/rafael-freitas-65382420b/">Rafael Freitas</a>
