@@ -36,7 +36,7 @@ $ yarn
 # Execute a aplicação
 $ yarn start
 
-# Após isso o servidor iniciará na porta: 3333
+# Após isso o servidor iniciará na porta: 3000
 # acesse http://localhost:3000
 ```
 <hr>
