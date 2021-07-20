@@ -10,7 +10,8 @@
 ![app](https://user-images.githubusercontent.com/73259242/126371797-91093888-81c6-4220-b67f-888c1a2fb2b4.png)
 
 <hr>
-## Obs: para o projeto rodar é necessário possuir:
+
+**Obs: para o projeto rodar é necessário possuir:**
 
 - Visual Studio Code
 - Node.js
